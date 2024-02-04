@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-# SF_Home_Work
-For submitting Home Work
-=======
-# SF Home Work DSPRMGU_21_поток
+# SF HomeWork DSPRMGU_21_поток
 ---
-This repository is used for submitting Home Work tasks for course SkillFactory Data Scientist
+This repository is used to submit Home Work tasks for course SkillFactory Data Scientist DSPRMGU_21_поток
 ---
 ## What's inside:
 
