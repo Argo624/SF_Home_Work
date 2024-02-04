@@ -7,18 +7,18 @@ For submitting Home Work
 This repository is used for submitting Home Work tasks for course SkillFactory Data Scientist
 ---
 ## What's inside:
-## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
+
+[1. Project description](.README.md#Project-description)  
 [2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
 [5. Результат](.README.md#Результат)    
 [6. Выводы](.README.md#Выводы) 
 
-### Описание проекта    
+### Project description    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[What's inside](.README.md#What's-inside)
 
 
 ### Какой кейс решаем?    
