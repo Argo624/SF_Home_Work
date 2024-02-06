@@ -5,7 +5,7 @@ This repository is used to submit Home Work tasks for course SkillFactory Data S
 ## What's inside:
 
 [1. Project description](README.md#Project-description)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
+[2. Modul_8_HW-01](Modul_8_HW-01/README.md#Описание-проекта)  
 [3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
 [5. Результат](.README.md#Результат)    
