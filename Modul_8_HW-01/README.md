@@ -1,55 +1,58 @@
-# Проект 0. Угадай число
+# Project 0. Guess the number
 
-## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+## Contents
+[1. Project description](README.md#Project-description)
+[2. What case are we solving?](README.md#What-case-we-are-solving)
+[3. Brief information about the data](README.md#Brief-information-about-the-data)
+[4. Stages of work on the project](README.md#Stages-of-work-on-the-project)
+[5. Result](README.md#Result)
+[6. Conclusions](README.md#Conclusions)
 
-### Описание проекта    
-Угадать загаданное компьютером число за минимальное число попыток.
+### Project description
+Guess the hidden computer number using the minimum number of attempts.
 
-:arrow_up:[к оглавлению](_)
-
-
-### Какой кейс решаем?    
-Нужно написать программу, которая угадывает число за минимальное число попыток
-
-**Условия соревнования:**  
-- Компьютер загадывает целое число от 0 до 100, и нам его нужно угадать. Под «угадать», подразумевается «написать программу, которая угадывает число».
-- Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
-
-**Метрика качества**     
-Результаты оцениваются по среднему количеству попыток при 1000 повторений
-
-**Что практикуем**     
-Учимся писать хороший код на python
+:arrow_up:[to contents](README.md#Contents)
 
 
-### Краткая информация о данных
+### What case are we solving?
+You need to write a program that guess a number in a minimum number of attempts.
+
+**Conditions of the competition:**
+- The computer gives a number from 0 to 100, and we need to guess it. By “guess” we mean “write a program that guesses a number.”
+- The observation algorithm provides information about whether the random number is greater or less than what we need.
+- Number of attempts should not be bigger than 20.  
+
+**Quality Metric**
+The results are compared by the average value of the results over 1000 repetitions
+
+**What we practice**
+- Learning to write good code in *Python*
+- Practice to work with *IDE*
+- Practice to work with *GitHup*
+
+
+### Data Brief
 ....
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[to contents](README.md#Contents)
 
 
-### Этапы работы над проектом  
+### Stages of work on the project
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[to contents](README.md#Contents)
 
 
-### Результаты:  
+### Results:
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[to contents](README.md#Contents)
 
 
-### Выводы:  
+### Conclusions:
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[to contents](README.md#Contents)
 
 
-Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
+If the information on this project seems interesting or useful to you, then I will be very grateful to you if you mark the repositories and profile with ⭐️⭐️⭐️
