@@ -5,7 +5,7 @@
 [2. What case are we solving?](README.md#What-case-are-we-solving)  
 [3. Brief information about the data](README.md#Data-Brief)  
 [4. Stages of work on the project](README.md#Stages-of-work-on-the-project)  
-[5. Result](README.md#Result)  
+[5. Results](README.md#Results)  
 [6. Conclusions](README.md#Conclusions)  
 
 ### Project description
@@ -43,13 +43,13 @@ The results are compared by the average value of the results over 1000 repetitio
 :arrow_up:[to contents](README.md#Contents)
 
 
-### Results :
+### Results:
 ....
 
 :arrow_up:[to contents](README.md#Contents)
 
 
-### Conclusions :
+### Conclusions:
 ....
 
 :arrow_up:[to contents](README.md#Contents)
