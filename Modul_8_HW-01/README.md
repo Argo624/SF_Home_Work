@@ -2,7 +2,7 @@
 
 ## Contents
 [1. Project description](README.md#Project-description)  
-[2. What case are we solving?](README.md#What-case-we-are-solving?)  
+[2. What case are we solving?](README.md#What-case-are-we-solving)  
 [3. Brief information about the data](README.md#Data-Brief)  
 [4. Stages of work on the project](README.md#Stages-of-work-on-the-project)  
 [5. Result](README.md#Result)  
