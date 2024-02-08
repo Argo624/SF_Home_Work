@@ -6,7 +6,7 @@
 [3. Brief information about the data](README.md#Brief-information-about-the-data)  
 [4. Stages of work on the project](README.md#Stages-of-work-on-the-project)  
 [5. Result](README.md#Result)  
-[6. Conclusions](README.md##Conclusions)  
+[6. Conclusions](README.md#Conclusions)  
 
 ### Project description
 Guess the hidden computer number using the minimum number of attempts.
