@@ -1,6 +1,6 @@
 # SF HomeWork DSPRMGU_21_поток
 ---
-This repository is used to submit Home Work tasks for course SkillFactory Data Scientist DSPRMGU_21_поток
+This repository is used to submit Homework tasks for course SkillFactory Data Scientist DSPRMGU_21_поток
 ---
 ## What's inside:
 
