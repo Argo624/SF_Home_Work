@@ -53,7 +53,7 @@ def score_game(predict) -> int:
         count_ls.append(predict(number)) # List of attempts done to guess each number from random_array
 
     score = int(np.amax(count_ls))  # Maximal number of attempts from guessing 1000 random numbers
-#    print(count_ls)
+    print('List of Attempts for each selected number:', count_ls)
     print(f"Algorithm had found selected numbers in maximum :{score} attempts")
     return score
 
